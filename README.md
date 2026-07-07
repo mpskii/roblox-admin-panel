@@ -37,5 +37,3 @@
 5. **⭐ Staff** - View all ranks and permissions
 6. **📋 Logs** - Search and filter all actions
 7. **⚙ Settings** - Theme, UI scale, notifications, accessibility
-
-## 👑 Rank System
